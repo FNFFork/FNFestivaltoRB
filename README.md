@@ -3,6 +3,7 @@
 ![FNF](https://github.com/FEStoRB/FNFestivaltoRB/assets/158007129/c65f6997-8300-4c21-b210-2a6d4d7ca76b)
 
 DO NOT USE ONYX ON THESE FOR ANYTHING UNLESS YOU ARE CONVERTING TO PS3. THEY WILL WORK ON RB3/RB2/RB1.
+CH/PS converting is largely out of the scope of this project, do not bring up any issues about converting to these formats as they just flat out might not work.
 Read onyx.txt for more information.
 Welcome to the FEStoRB repo.
 
