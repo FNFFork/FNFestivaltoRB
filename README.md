@@ -26,6 +26,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Epic Games - Butter Barn Hoedown
 * Fallout Boy - My Songs Know What You Did In The Dark
 * Florence + the Machine - Dog Days Are Over  (RB3 con)
+* Foo Fighters - Everlong
 * Glass Animals - Heat Waves
 * Green Day - Basket Case
 * Green Day - Paradise
