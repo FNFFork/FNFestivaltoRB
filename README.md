@@ -35,6 +35,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Greta Van Fleet - Highway Tune
 * Imagine Dragons - Believer
 * Imagine Dragons - Thunder
+* John Williams, London Symphony Orchestra - Cantina Band
 * Kendrick Lamar - i (RB3 con)
 * KT Tunstall - Suddenly I See
 * Lady Gaga - Bad Romance
