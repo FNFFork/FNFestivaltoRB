@@ -39,6 +39,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Kendrick Lamar - i (RB3 con)
 * KT Tunstall - Suddenly I See
 * Lady Gaga - Bad Romance
+* Lil Uzi Vert - XO Tour Llif3
 * LMFAO ft. Lauren Bennett & GoonRock - Party Rock Anthem
 * Machine Gun Kelly ft. WILLOW - emo girl
 * Miley Cyrus - Flowers
