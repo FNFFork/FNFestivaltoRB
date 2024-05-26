@@ -42,6 +42,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Lil Uzi Vert - XO Tour Llif3
 * LMFAO ft. Lauren Bennett & GoonRock - Party Rock Anthem
 * Machine Gun Kelly ft. WILLOW - emo girl
+* Metallica - Fuel
 * Miley Cyrus - Flowers
 * Nelly ft. City Spud - Ride Wit Me
 * NF - The Search
