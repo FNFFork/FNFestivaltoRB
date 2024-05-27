@@ -52,6 +52,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Nine Inch Nails - Less Than
 * Nine Inch Nails - The Hand That Feeds
 * Nirvana - Breed
+* No Doubt - Just a Girl
 * Olivia Rodrigo - get him back!
 * Olivia Rodrigo - good 4 u
 * OneRepublic - Counting Stars
@@ -60,6 +61,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Queens of the Stone Age - Go With The Flow
 * Rancid - Ruby Soho
 * Shawn Mendes - Stitches
+* Slipknot - Before I Forget
 * Sub Urban - Cradles
 * The Cranberries - Zombie
 * The Killers - Mr. Brightside
