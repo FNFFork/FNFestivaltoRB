@@ -15,21 +15,23 @@ Below is a list of all songs currently completed. (Hand authored)
 *Note that RB1/RB2 cons will still load in RB3 just fine. Do not attempt to convert to an RB3 con yourself, you will break the con.*
 
 ## Songs currently completed:
-* All American Rejects - Dirty Little Secret
+* All-American Rejects - Dirty Little Secret
 * Aqua - Barbie Girl
 * Ariana Granda - Into You
 * Avenged Sevenfold - Hail to the King
 * Bastille - Pompeii
 * Billie Eilish - bad guy
+* Blur - Song 2
 * Darude - Sandstorm
 * DNCE - Cake By The Ocean
 * Doja Cat - Say So
 * Epic Games - 8-Bit Beat
 * Epic Games - Butter Barn Hoedown
 * Fallout Boy - My Songs Know What You Did In The Dark
-* Florence + the Machine - Dog Days Are Over  (RB3 con)
+* Florence + the Machine - Dog Days Are Over (RB3 con)
 * Foo Fighters - Everlong
 * Glass Animals - Heat Waves
+* Gorillaz - Feel Good Inc.
 * Green Day - Basket Case
 * Green Day - Paradise
 * Green Day - When I Come Around
