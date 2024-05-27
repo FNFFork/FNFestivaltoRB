@@ -18,6 +18,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * All American Rejects - Dirty Little Secret
 * Aqua - Barbie Girl
 * Ariana Granda - Into You
+* Avenged Sevenfold - Hail to the King
 * Bastille - Pompeii
 * Billie Eilish - bad guy
 * Darude - Sandstorm
@@ -36,6 +37,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Imagine Dragons - Believer
 * Imagine Dragons - Thunder
 * John Williams, London Symphony Orchestra - Cantina Band
+* Kansas - Carry on Wayward Son
 * Kendrick Lamar - i (RB3 con)
 * KT Tunstall - Suddenly I See
 * Lady Gaga - Bad Romance
@@ -44,16 +46,19 @@ Below is a list of all songs currently completed. (Hand authored)
 * Machine Gun Kelly ft. WILLOW - emo girl
 * Metallica - Fuel
 * Miley Cyrus - Flowers
+* Muse - Hysteria
 * Nelly ft. City Spud - Ride Wit Me
 * NF - The Search
 * Nine Inch Nails - Less Than
 * Nine Inch Nails - The Hand That Feeds
+* Nirvana - Breed
 * Olivia Rodrigo - get him back!
 * Olivia Rodrigo - good 4 u
 * OneRepublic - Counting Stars
 * Pat Benatar - Heartbreaker
 * Psy - Gangnam Style
 * Queens of the Stone Age - Go With The Flow
+* Rancid - Ruby Soho
 * Shawn Mendes - Stitches
 * Sub Urban - Cradles
 * The Cranberries - Zombie
