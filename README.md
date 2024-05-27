@@ -15,20 +15,23 @@ Below is a list of all songs currently completed. (Hand authored)
 *Note that RB1/RB2 cons will still load in RB3 just fine. Do not attempt to convert to an RB3 con yourself, you will break the con.*
 
 ## Songs currently completed:
-* All American Rejects - Dirty Little Secret
+* All-American Rejects - Dirty Little Secret
 * Aqua - Barbie Girl
 * Ariana Granda - Into You
+* Avenged Sevenfold - Hail to the King
 * Bastille - Pompeii
 * Billie Eilish - bad guy
+* Blur - Song 2
 * Darude - Sandstorm
 * DNCE - Cake By The Ocean
 * Doja Cat - Say So
 * Epic Games - 8-Bit Beat
 * Epic Games - Butter Barn Hoedown
 * Fallout Boy - My Songs Know What You Did In The Dark
-* Florence + the Machine - Dog Days Are Over  (RB3 con)
+* Florence + the Machine - Dog Days Are Over (RB3 con)
 * Foo Fighters - Everlong
 * Glass Animals - Heat Waves
+* Gorillaz - Feel Good Inc.
 * Green Day - Basket Case
 * Green Day - Paradise
 * Green Day - When I Come Around
@@ -36,6 +39,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Imagine Dragons - Believer
 * Imagine Dragons - Thunder
 * John Williams, London Symphony Orchestra - Cantina Band
+* Kansas - Carry on Wayward Son
 * Kendrick Lamar - i (RB3 con)
 * KT Tunstall - Suddenly I See
 * Lady Gaga - Bad Romance
@@ -44,17 +48,22 @@ Below is a list of all songs currently completed. (Hand authored)
 * Machine Gun Kelly ft. WILLOW - emo girl
 * Metallica - Fuel
 * Miley Cyrus - Flowers
+* Muse - Hysteria
 * Nelly ft. City Spud - Ride Wit Me
 * NF - The Search
 * Nine Inch Nails - Less Than
 * Nine Inch Nails - The Hand That Feeds
+* Nirvana - Breed
+* No Doubt - Just a Girl
 * Olivia Rodrigo - get him back!
 * Olivia Rodrigo - good 4 u
 * OneRepublic - Counting Stars
 * Pat Benatar - Heartbreaker
 * Psy - Gangnam Style
 * Queens of the Stone Age - Go With The Flow
+* Rancid - Ruby Soho
 * Shawn Mendes - Stitches
+* Slipknot - Before I Forget
 * Sub Urban - Cradles
 * The Cranberries - Zombie
 * The Killers - Mr. Brightside
