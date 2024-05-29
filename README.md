@@ -21,13 +21,14 @@ Below is a list of all songs currently completed. (Hand authored)
 * Avenged Sevenfold - Hail to the King
 * Bastille - Pompeii
 * Billie Eilish - bad guy
+* Blink-182 - All the Small Things
 * Blur - Song 2
 * Darude - Sandstorm
 * DNCE - Cake By The Ocean
 * Doja Cat - Say So
 * Epic Games - 8-Bit Beat
 * Epic Games - Butter Barn Hoedown
-* Fallout Boy - My Songs Know What You Did In The Dark
+* Fall Out Boy - My Songs Know What You Did In The Dark
 * Florence + the Machine - Dog Days Are Over (RB3 con)
 * Foo Fighters - Everlong
 * Glass Animals - Heat Waves
@@ -38,6 +39,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Greta Van Fleet - Highway Tune
 * Imagine Dragons - Believer
 * Imagine Dragons - Thunder
+* Jimmy Eat World - The Middle
 * John Williams, London Symphony Orchestra - Cantina Band
 * Kansas - Carry on Wayward Son
 * Kendrick Lamar - i (RB3 con)
@@ -46,7 +48,10 @@ Below is a list of all songs currently completed. (Hand authored)
 * Lil Uzi Vert - XO Tour Llif3
 * LMFAO ft. Lauren Bennett & GoonRock - Party Rock Anthem
 * Machine Gun Kelly ft. WILLOW - emo girl
+* Maroon 5 - Maps
+* Masked Wolf - Astronaut in the Ocean
 * Metallica - Fuel
+* MGMT - Kids
 * Miley Cyrus - Flowers
 * Muse - Hysteria
 * Nelly ft. City Spud - Ride Wit Me
@@ -59,13 +64,18 @@ Below is a list of all songs currently completed. (Hand authored)
 * Olivia Rodrigo - good 4 u
 * OneRepublic - Counting Stars
 * Pat Benatar - Heartbreaker
-* Psy - Gangnam Style
-* Queens of the Stone Age - Go With The Flow
+* P!nk - So What
+* PSY - Gangnam Style
+* Queens of the Stone Age - Go with the Flow
+* Ramones - Blitzkrieg Bop
 * Rancid - Ruby Soho
+* Rick James - Super Freak
+* Rob Zombie - Dragula
 * Shawn Mendes - Stitches
 * Slipknot - Before I Forget
 * Sub Urban - Cradles
 * The Cranberries - Zombie
+* The Cure - Friday I'm in Love
 * The Killers - Mr. Brightside
 * The Weeknd - Blinding Lights
 * The Weeknd - Can't Feel My Face
@@ -73,4 +83,6 @@ Below is a list of all songs currently completed. (Hand authored)
 * The Weeknd - Take My Breath
 * The Weeknd - The Hills
 * The White Stripes - Seven Nation Army
+* Twenty One Pilots - Heathens
+* Twenty One Pilots - Stressed Out
 * Weezer - Buddy Holly
