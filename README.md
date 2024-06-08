@@ -51,6 +51,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Maroon 5 - Maps
 * Masked Wolf - Astronaut in the Ocean
 * Metallica - Fuel
+* Metallica - Master of Puppets
 * MGMT - Kids
 * Miley Cyrus - Flowers
 * Muse - Hysteria
