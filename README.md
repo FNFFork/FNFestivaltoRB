@@ -20,6 +20,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Ariana Granda - Into You
 * Avenged Sevenfold - Hail to the King
 * Bastille - Pompeii
+* Beastie Boys - Sabotage
 * Billie Eilish - bad guy
 * Blink-182 - All the Small Things
 * Blur - Song 2
@@ -66,8 +67,10 @@ Below is a list of all songs currently completed. (Hand authored)
 * OneRepublic - Counting Stars
 * Pat Benatar - Heartbreaker
 * P!nk - So What
+* Post Malone - Circles
 * PSY - Gangnam Style
 * Queens of the Stone Age - Go with the Flow
+* Rage Against the Machine - Bulls on Parade
 * Ramones - Blitzkrieg Bop
 * Rancid - Ruby Soho
 * Rick James - Super Freak
