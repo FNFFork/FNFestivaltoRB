@@ -55,6 +55,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Metallica - Master of Puppets
 * Metallica - One
 * Metallica - The Unforgiven
+* Metallica - Wherever I May Roam
 * MGMT - Kids
 * Miley Cyrus - Flowers
 * Muse - Hysteria
