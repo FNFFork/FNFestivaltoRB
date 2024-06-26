@@ -54,6 +54,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Masked Wolf - Astronaut in the Ocean
 * Metallica - Fuel
 * Metallica - Master of Puppets
+* Metallica - Nothing Else Matters
 * Metallica - One
 * Metallica - The Unforgiven
 * Metallica - Wherever I May Roam
