@@ -52,6 +52,7 @@ Below is a list of all songs currently completed. (Hand authored)
 * Machine Gun Kelly ft. WILLOW - emo girl
 * Maroon 5 - Maps
 * Masked Wolf - Astronaut in the Ocean
+* Metallica - For Whom The Bell Tolls
 * Metallica - Fuel
 * Metallica - Master of Puppets
 * Metallica - Nothing Else Matters
